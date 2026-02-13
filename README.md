@@ -16,11 +16,11 @@ Dataset loading
 Data preview and structure checks
 
 Initial missing value analysis
-<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/d4e47ef1-dc65-4ddc-bb26-de4c08960cf6" />
-<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/281aaf10-b3f5-4069-91e0-62cf341556c9" />
-<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/afa79fb1-e5a7-4d3e-bf4f-e90703fc2ba0" />
-<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/42e157f9-e60a-4074-ae89-f136fe0ee397" />
-<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/132482f0-3edc-4753-8c1d-0acb47e2e628" />
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/b736460d-ecf1-498c-8812-708b515cfe19" />
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/bf4dabd5-d0c6-4dc8-b864-48229c7a2810" />
+<img width="1920" height="1080" alt="Screenshot (80)" src="https://github.com/user-attachments/assets/120368a5-b00d-45f0-9ef0-98dad290f109" />
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/0d9bbdf8-e65c-4fbd-bb0a-64be1ba4fc32" />
+<img width="1920" height="1080" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/2412f1d9-abd8-48ef-ae07-26024b895990" />
 
 📘 Pages 6–10
 
@@ -33,11 +33,11 @@ Date creation (enrollment & cancellation)
 Campaign period tagging (pre/during/post)
 
 Value counts & trend preparation
-<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/9a7587a0-18f8-4308-ac65-2eb4b6412053" />
-<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/4651c743-1e06-411a-9c14-7ae1a8b1d7a1" />
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/3a1532b1-ea28-45ab-adc4-e151ef60c9d2" />
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/de2fdb64-a8a8-48fa-88d8-833b9ae72ed6" />
-<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/5b458ef3-5cdc-4b96-8190-17855f7cab53" />
+<img width="1920" height="1080" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/3fa73849-69e2-4504-baf8-a7b269707303" />
+<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/8f54c0c7-be2a-46a8-92be-9884d7c2380c" />
+<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/70e56e1b-67b0-4d63-bdd6-94ed815d9a5e" />
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/03b58369-c84e-40b5-a90d-48ded2dccb80" />
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/677cf3ef-6aad-44bb-81cf-5edc03ee39a7" />
 
 📘 Pages 11–15
 
@@ -50,11 +50,11 @@ Monthly enrollment trends
 Campaign effect segmentation
 
 Gender adoption analysis
-<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/27808454-671e-4853-a58b-5ab35dfca829" />
-<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/ea392826-4726-42db-8898-53254199e70c" />
-<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/1198f8f2-7de2-4df8-b43c-9c2382eb935b" />
-<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/ca0d264d-20f8-4d33-b284-b30337e745f4" />
-<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/f896232c-9805-469f-81e8-aef423361157" />
+<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/d1159397-1310-4e25-835f-96a38fbb5b2c" />
+<img width="1920" height="1080" alt="Screenshot (89)" src="https://github.com/user-attachments/assets/b480940a-4092-4fd8-a97d-9dc62eabf6e1" />
+<img width="1920" height="1080" alt="Screenshot (90)" src="https://github.com/user-attachments/assets/b75eb6d0-9c91-4fe2-a172-89416265bc2b" />
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/985ceb8e-3cfb-49b6-8066-78e8833ee7a9" />
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/719ae098-18f6-499d-bf33-4d067cb3d74d" />
 
 📘 Pages 16–20
 
@@ -69,11 +69,11 @@ Salary-based campaign adoption
 Summer flight behavior analysis
 
 Customer-level flight aggregation
-<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/9fab6c13-8e62-4acb-87c8-ad23129899fe" />
-<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/68bc741d-87d8-453f-8659-fd388b40fa5c" />
-<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/550d7809-fc6c-4ccb-a70b-75bbd6b6c2e5" />
-<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/2bea89a7-e2c9-4ffe-bf94-effd8108f9cc" />
-<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/e4d8b7a4-e3c9-492d-ac36-99aa352608cf" />
+<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/c3eeb994-8719-4ab4-9e03-0f9b5ec3cca5" />
+<img width="1920" height="1080" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/dcf4c8b9-d5df-4e18-8527-2261e6d1fc42" />
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/1f704147-7c22-408c-adb3-bbb3dab310cf" />
+<img width="1920" height="1080" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/ef8c64b7-b704-4a50-8464-4c3c13e03e57" />
+<img width="1920" height="1080" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/fc74d444-659f-4055-ac26-8044b494b31e" />
 
 📘 Pages 21–25
 
@@ -86,11 +86,16 @@ Campaign performance visualization
 Summary statistics
 
 Final interpretation
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/45286316-0cfb-41cd-a7f1-4e70214e1607" />
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/0cd08dd3-a3ea-496a-8030-3c9e940f9966" />
-<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/0c075c65-3704-463c-be49-8a9be0ac64db" />
-<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/5ad3dcfa-c55a-49e1-a9b2-0163984d87c3" />
-<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/2a075230-f85e-4e25-8208-b14277844692" />
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/284c6246-9140-4d5b-92b9-52f8c8e00a91" />
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/60bff971-30e8-4347-93a8-d88b435321fc" />
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/c965a009-57bb-417e-80c8-11613d9d9de0" />
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ae13256f-f1db-44da-8aca-69e3996bbe82" />
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/34c61c71-e3b1-463e-b3b1-0d889356ec6a" />
+
+
+
+
+
 
 
 
