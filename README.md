@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/3e68082c-5803-45a5-a002-5c5b1049d1ab" />✈️ Airline Loyalty Program Campaign Analysis
+✈️ Airline Loyalty Program Campaign Analysis
 📌 Project Overview
 
 This project analyzes the effectiveness of a targeted airline loyalty program campaign. The goal is to evaluate whether the campaign successfully increased customer enrollments and to understand its impact across different customer demographics and flight activity patterns.
