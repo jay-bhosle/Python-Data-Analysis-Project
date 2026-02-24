@@ -1,4 +1,5 @@
 ✈️ Airline Loyalty Program Campaign Analysis
+
 📌 Project Overview
 This project analyzes the effectiveness of a targeted airline loyalty program campaign. The goal is to evaluate whether the campaign successfully increased customer enrollments and to understand its impact across different customer demographics and flight activity patterns.
 
