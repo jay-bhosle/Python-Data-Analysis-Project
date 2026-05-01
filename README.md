@@ -1,47 +1,56 @@
-✈️ Airline Loyalty Program Campaign Analysis
+# Northern Lights Air – Loyalty Campaign Impact Analysis  
+**Python‑driven evaluation of a promotional campaign on enrollment, demographics, and flight behaviour**
 
-📌 Project Overview:
-This project analyzes the effectiveness of a targeted airline loyalty program campaign. The goal is to evaluate whether the campaign successfully increased customer enrollments and to understand its impact across different customer demographics and flight activity patterns.
+## Project Overview
+Northern Lights Air ran a targeted loyalty promotion from February to April 2018. This project analyses the campaign’s effectiveness in driving new memberships, which customer segments adopted it most, and whether campaign‑enrolled customers flew more during the following summer.
 
-📘 Project Setup & Initial Data Exploration, Project objective and campaign goals, Library imports, Dataset loading, Data preview and structure checks, Initial missing value analysis
-<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/b736460d-ecf1-498c-8812-708b515cfe19" />
-1
-<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/bf4dabd5-d0c6-4dc8-b864-48229c7a2810" />
-2
-<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/0d9bbdf8-e65c-4fbd-bb0a-64be1ba4fc32" />
-3
+## Tools & Technologies
+- **Python (pandas, numpy, matplotlib)** – Data loading, cleaning, feature engineering, statistical summaries, and visualisation  
+- **Jupyter Notebook** – All analysis in a single, documented notebook
 
-📘 Data Cleaning & Feature Engineering, Column standardization, Date creation (enrollment & cancellation), Campaign period tagging (pre/during/post), Value counts & trend preparation
-<img width="1920" height="1080" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/8f54c0c7-be2a-46a8-92be-9884d7c2380c" />
-4
-<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/677cf3ef-6aad-44bb-81cf-5edc03ee39a7" />
-5
+## Data Pipeline
 
-📘 Campaign Impact Analysis, Enrollment vs cancellation comparison, Monthly enrollment trends, Campaign effect segmentation, Gender adoption analysis
-<img width="1920" height="1080" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/d1159397-1310-4e25-835f-96a38fbb5b2c" />
-6
-<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/719ae098-18f6-499d-bf33-4d067cb3d74d" />
-7
+### 1. Data Loading & Inspection
+Loaded four CSVs (Loyalty History, Flight Activity, Calendar, Data Dictionary) and examined shapes, data types, and missing values.  
+<img width="1920" height="1080" alt="Screenshot (78)" src="https://github.com/user-attachments/assets/1e435a2b-fa36-4e23-9d72-f05d528c3b31" />  
+<img width="1920" height="1080" alt="Screenshot (79)" src="https://github.com/user-attachments/assets/fde594b9-adeb-46fd-8dba-9b7c7fedae97" />  
+<img width="1920" height="1080" alt="Screenshot (81)" src="https://github.com/user-attachments/assets/9de9086a-072c-42b0-ab37-1b2f1fadc455" />
 
-📘 Demographic & Salary Analysis, Education adoption rates, Salary band creation, Salary-based campaign adoption, Summer flight behavior analysis, Customer-level flight aggregation
-<img width="1920" height="1080" alt="Screenshot (93)" src="https://github.com/user-attachments/assets/c3eeb994-8719-4ab4-9e03-0f9b5ec3cca5" />
-8
+### 2. Data Cleaning & Feature Engineering
+Standardised column names, created proper `enrollment_date` and `cancellation_date` fields, and tagged each member’s enrollment relative to the campaign period.  
+<img width="1920" height="1080" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/56781a7e-686f-43ba-949b-7146fccf65cc" />  
+<img width="1920" height="1080" alt="Screenshot (87)" src="https://github.com/user-attachments/assets/83e4ac8f-fef6-4b05-9fb2-baa90eddfccb" />
 
-📘 Visualizations & Final Insights, Enrollment trend chart, Campaign performance visualization, Summary statistics, Final interpretation
-<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/c965a009-57bb-417e-80c8-11613d9d9de0" />
-9
-<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/ae13256f-f1db-44da-8aca-69e3996bbe82" />
-10
-<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/34c61c71-e3b1-463e-b3b1-0d889356ec6a" />
-11
+### 3. Trend & Adoption Analysis
+Aggregated monthly gross enrollments and net membership change, then compared campaign months against the rest. Merged demographic data to calculate adoption rates by gender, education, and salary band.  
+<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/309d809c-a877-475d-a32e-3cd05837366c" />  
+<img width="1920" height="1080" alt="Screenshot (92)" src="https://github.com/user-attachments/assets/2a12a4d1-7d87-41b4-8b42-25b5f04c4f57" />  
+<img width="1920" height="1080" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/895f458b-60e7-4438-b191-3e25dcb23f00" />
 
+### 4. Summer Flight Behaviour
+Joined cleaned flight activity with loyalty history, filtered for May–August 2018, and compared average flights for members who joined pre‑, during, and post‑campaign.  
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/e6caec55-5b2b-432f-b559-2c803dda1323" />
 
+## Key Insights
 
+- **Campaign drove significant enrollment uplift**  
+  During the campaign (Feb–Apr 2018), average monthly gross enrollments rose to **324**, compared to **202** in non‑campaign months – a **60% increase**.
 
+- **Net membership growth was entirely positive**  
+  All campaign months showed positive net change, indicating the promotion attracted stickier members.
 
+- **Demographic adoption was broad, with slight female skew**  
+  – **Gender:** Females adopted at a rate of **5.87%** vs. **5.73%** for males – a marginal difference.  
+  – **Salary:** Lower‑income earners (<$50K) adopted at **16.0%** – nearly three times higher than any other band. The “Unknown” group (likely non‑responders) followed with **6.1%**.
 
+- **Campaign joiners flew more in summer 2018**  
+  Members who enrolled **during the campaign** averaged the highest number of flights in May–August 2018, outperforming both pre‑campaign and post‑campaign cohorts. This indicates the campaign attracted genuinely active travellers.
 
+## Recommendations
+- **Retain high‑value Loyalty members** – Focus incentives on customers with the highest flight activity and lifetime value to prevent revenue loss.  
+- **Re‑engage inactive but previously loyal customers** – Use personalised win‑back offers for members with strong past activity who recently disengaged.  
+- **Personalise rewards by Loyalty tier** – Align benefits to tier behaviour instead of one‑size‑fits‑all promotions.  
+- **Incentivise flight frequency, not just distance** – Reward frequent flyers to encourage habitual travel and strengthen long‑term loyalty.  
+- **Use behaviour trends to predict and prevent churn** – Monitor declining activity and trigger early retention campaigns before customers disengage.
 
-
-
-
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/0069ce1f-a3b7-4aec-9349-123c6249b975" />
